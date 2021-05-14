@@ -1,4 +1,4 @@
-# Social Media Sample Project
+# Shopping App
 
 
 ## Database Setup
